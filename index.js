@@ -1,7 +1,7 @@
 
 
-function add () {
-5 += 6;
+function add (a, b) {
+a += b;
 }
 
 function subtract () {
